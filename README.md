@@ -11,6 +11,8 @@ Latest Projects:
 
 Currently working on developing a filesystem and memory allocator in C++ or Rust
 
+- ✨ Future goals: Learn Ada, Fortran, and Cobolt 
+
 - 📫 How to reach me **tristan.lok@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
