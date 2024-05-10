@@ -6,9 +6,9 @@
 
 Latest Projects:
 
-1. **[Charsiu Compiler](https://github.com/tansonlee/echo-cache)**: A high-level language with a compiler.
-2. **[GoSH](https://github.com/tansonlee/PyScript)**: A linux shell with an interptreter.
-3. **[Text2Touch](https://github.com/tansonlee/ray-tracer)**: A project to make Braille Displays more accessible to the public.
+1. **[Charsiu Compiler](https://github.com/tristanlok/charsiu-Compiler)**: A high-level language with a compiler.
+2. **[GoSH](https://github.com/tristanlok/GoSH)**: A linux shell with an interptreter.
+3. **[Text2Touch](https://github.com/tristanlok/Text2Touch)**: A project to make Braille Displays more accessible to the public.
 
 Currently working on developing a filesystem and memory allocator in C++ or Rust
 
