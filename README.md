@@ -2,6 +2,7 @@
 <h3 align="center">Interested in System Software Programming, especially Operating Systems!</h3>
 
 - 🔭 My current goal is learning how to create an **Operating System**
+- 👨‍🏫 Studying Computer Engineering at the University of Waterloo
 - 🧑‍💻 Currently developing through a Proxmox Homelab using Neovim
 
 Latest Projects:
