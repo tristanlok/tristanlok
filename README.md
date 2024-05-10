@@ -10,7 +10,7 @@ Latest Projects:
 2. **[GoSH](https://github.com/tristanlok/GoSH)**: A linux shell with an interptreter.
 3. **[Text2Touch](https://github.com/tristanlok/Text2Touch)**: A project to make Braille Displays more accessible to the public.
 
-Currently working on developing a filesystem and memory allocator in C++ or Rust
+Currently working on developing a filesystem, memory allocator, and HTTPS server in C/C++, or Rust
 
 - ✨ Future goals: Learn Ada, Fortran, and COBOL 
 
